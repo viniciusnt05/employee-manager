@@ -1,0 +1,3 @@
+teste, teste, 1233.0
+V77, Vinícius Mendes Santos, 90000.0
+D997, Daniel Alcantara, 1999999.5
